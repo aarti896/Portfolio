@@ -1,5 +1,3 @@
-# Portfolio
-My Personal Portfolio
 <!DOCTYPE html>
 <html lang="hi">
 <head>
